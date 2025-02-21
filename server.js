@@ -1,6 +1,6 @@
 import "dotenv/config";
 import app from "./src/app.js";
-import LayoutTasks from "./src/watcher/layoutTasks.js";
+import LayoutTasks from "./src/watcher/LayoutTasks.js";
 import createChaptersTasks from "./src/watcher/createChaptersTasks.js";
 import generateChapterContentTasks from "./src/watcher/generateChapterContentTasks.js";
 
